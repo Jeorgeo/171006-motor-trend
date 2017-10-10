@@ -29,6 +29,7 @@
 
   <!--link rel="stylesheet" href="css/modify.css"/ --><!-- Быстрые правки и дополнения до их переноса в .less -->
   <link href="css/style.css" rel="stylesheet">
+  <link href="css/custom.css" rel="stylesheet">
   <style type="text/css">/* cyrillic-ext */
 @font-face {
   font-family: lt-Roboto;
@@ -154,7 +155,7 @@
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
 }
 </style>
-<script type="text/javascript" charset="UTF-8" src="js/onion.js"></script><script type="text/javascript" charset="UTF-8" src="js/controls.js"></script><script type="text/javascript" charset="UTF-8" src="js/stats.js"></script></head>
+</head>
 
 
 <body class="site-body">
@@ -641,7 +642,7 @@
 
   <section class="sec-gallery">
     <div class="container">
-      <div class="sec-gallery__slider js-gallery-slider slick-initialized slick-slider slick-dotted"><button type="button" class="slick-arrow slick-prev slick-disabled" aria-disabled="true" style="display: block;"></button>
+      <div class="sec-gallery__slider js-gallery-slider slick-initialized slick-slider slick-dotted"><button type="button" class="slick-arrow slick-prev" aria-disabled="true" style="display: block;"></button>
         <div class="slick-list draggable">
           <div class="slick-track" style="opacity: 1; width: 15580px; transform: translate3d(0px, 0px, 0px);">
             <div class="sec-gallery__slide slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 779px;" tabindex="0" role="tabpanel" id="slick-slide00" aria-describedby="slick-slide-control00">
@@ -806,7 +807,29 @@
         <!-- END sec-gallery__slide -->
         <!-- END sec-gallery__slide -->
 
-      <button type="button" class="slick-arrow slick-next" style="display: block;" aria-disabled="false"></button><ul class="slick-dots" style="display: block;" role="tablist"><li class="slick-active" role="presentation"><a class="slick-num" role="button">1</a></li><li role="presentation"><a class="slick-num" role="button">2</a></li><li role="presentation"><a class="slick-num" role="button">3</a></li><li role="presentation"><a class="slick-num" role="button">4</a></li><li role="presentation"><a class="slick-num" role="button">5</a></li><li role="presentation"><a class="slick-num" role="button">6</a></li><li role="presentation"><a class="slick-num" role="button">7</a></li><li role="presentation"><a class="slick-num" role="button">8</a></li><li role="presentation"><a class="slick-num" role="button">9</a></li><li role="presentation"><a class="slick-num" role="button">10</a></li><li role="presentation"><a class="slick-num" role="button">11</a></li><li role="presentation"><a class="slick-num" role="button">12</a></li><li role="presentation"><a class="slick-num" role="button">13</a></li><li role="presentation"><a class="slick-num" role="button">14</a></li><li role="presentation"><a class="slick-num" role="button">15</a></li><li role="presentation"><a class="slick-num" role="button">16</a></li><li role="presentation"><a class="slick-num" role="button">17</a></li><li role="presentation"><a class="slick-num" role="button">18</a></li><li role="presentation"><a class="slick-num" role="button">19</a></li><li role="presentation"><a class="slick-num" role="button">20</a></li></ul></div><!-- END sec-gallery__slider -->
+      <button type="button" class="slick-arrow slick-next" style="display: block;" aria-disabled="false"></button>
+      <ul class="slick-dots" role="tablist">
+        <li class="slick-active slick-li" role="presentation"><a class="slick-num" role="button">1</a></li>
+        <li class="slick-li" role="presentation"><a class="slick-num" role="button">2</a></li>
+        <li class="slick-li" role="presentation"><a class="slick-num" role="button">3</a></li>
+        <li class="slick-li" role="presentation"><a class="slick-num" role="button">4</a></li>
+        <li class="slick-li" role="presentation"><a class="slick-num" role="button">5</a></li>
+        <li class="slick-li" role="presentation"><a class="slick-num" role="button">6</a></li>
+        <li class="slick-li" role="presentation"><a class="slick-num" role="button">7</a></li>
+        <li class="slick-li" role="presentation"><a class="slick-num" role="button">8</a></li>
+        <li class="slick-li" role="presentation"><a class="slick-num" role="button">9</a></li>
+        <li class="slick-li" role="presentation"><a class="slick-num" role="button">10</a></li>
+        <li class="slick-li" role="presentation"><a class="slick-num" role="button">11</a></li>
+        <li class="slick-li" role="presentation"><a class="slick-num" role="button">12</a></li>
+        <li class="slick-li" role="presentation"><a class="slick-num" role="button">13</a></li>
+        <li class="slick-li" role="presentation"><a class="slick-num" role="button">14</a></li>
+        <li class="slick-li" role="presentation"><a class="slick-num" role="button">15</a></li>
+        <li class="slick-li" role="presentation"><a class="slick-num" role="button">16</a></li>
+        <li class="slick-li" role="presentation"><a class="slick-num" role="button">17</a></li>
+        <li class="slick-li" role="presentation"><a class="slick-num" role="button">18</a></li>
+        <li class="slick-li" role="presentation"><a class="slick-num" role="button">19</a></li>
+        <li class="slick-li" role="presentation"><a class="slick-num" role="button">20</a></li>
+      </ul></div><!-- END sec-gallery__slider -->
     </div><!-- END container -->
   </section><!-- END sec-gallery -->
 
@@ -1186,9 +1209,9 @@
 <!-- required scripts-->
 
 <script type="text/javascript" src="js/libs.js"></script>
+<script type="text/javascript" src="js/all.js"></script>
 <script type="text/javascript" src="js/jquery-3.2.0.min.js"></script>
 <script type="text/javascript" src="js/main.js"></script>
-<script type="text/javascript" src="js/jquery.js"></script>
 
 </body>
 </html>
