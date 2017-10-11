@@ -296,7 +296,7 @@ get_header(); ?>
 					</li>
 				</ul>
 			</div>
-			<div class="sec-show__map js-map-here" id="showroom-map"></div>
+			<div class="sec-show__map js-map-here" id="showroom-map"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2230.431410951745!2d37.1990813154467!3d56.01120098062325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b514458fc9afc1%3A0xe7f0e3e06153fdff!2z0J_QsNC90YTQuNC70L7QstGB0LrQuNC5INC_0YAuLCAxMCwg0JfQtdC70LXQvdC-0LPRgNCw0LQsINCc0L7RgdC60LLQsCwg0KDQvtGB0YHQuNGPLCAxMjQ0NjA!5e0!3m2!1sru!2sve!4v1507752056219" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></div>
 		</div><!-- END container -->
 	</section><!-- END sec-show -->
 
