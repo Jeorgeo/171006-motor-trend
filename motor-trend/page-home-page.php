@@ -37,9 +37,9 @@ get_header(); ?>
 				</div>
 				<div class="sec-intro__col-rt">
 					<div class="form all-sections__form sec-intro__form">
-						<div class="form__title">Пройдите простую регистрацию и станьте участником проекта</div>
+						<div class="form__title"><?php the_field('button_article'); ?></div>
 						<div class="form__line for-sumbmit">
-							<a class="btn btn_red" role="button" href="https://reg.solargroup.pro/user/register" target="_blank" onclick="yaCounterXXXXXX.reachGoal('TARGET1'); return true;">Присоединиться <i class="btn__icon-rt icon-more-red"></i></a>
+							<a class="btn btn_red" role="button" href="https://reg.solargroup.pro/user/register" target="_blank" onclick="yaCounter46156305.reachGoal('2'); return true;">Присоединиться <i class="btn__icon-rt icon-more-red"></i></a>
 						</div>
 						<div class="form__note">
 							Пройдите регистрацию в 3 простых шага, для Вас станут
@@ -47,8 +47,6 @@ get_header(); ?>
 						</div>
 					</div>
 					<div class="sec-intro__note">
-						Смотрие другие видео и подписывайтесь на нас в
-						<a href="https://www.youtube.com/channel/UCHrtI4vjbUChbFPrammi3lg/videos" target="_blank">Youtube</a>
 					</div>
 				</div>
 			</div><!-- END container -->
@@ -283,7 +281,7 @@ get_header(); ?>
 				<div class="sec-show__join">
 					<div class="sec-show__join-slogan">Записывайтесь на посещение!</div>
 					<div class="sec-show__join-button">
-						<a class="btn btn_red" href="https://goo.gl/forms/ciiqItHGTcS6H7Pf2" target="_blank">Записаться <i class="btn__icon-rt icon-more-red"></i></a>
+						<a class="btn btn_red" href="https://goo.gl/forms/ciiqItHGTcS6H7Pf2" target="_blank" onclick="yaCounter46156305.reachGoal('3'); return true;">Записаться <i class="btn__icon-rt icon-more-red"></i></a>
 					</div>
 				</div>
 				<ul class="sec-show__picts">
@@ -321,7 +319,7 @@ get_header(); ?>
 						<input class="form__input" name="mail" type="text" placeholder="E-mail">
 					</div -->
 					<div class="form__line for-sumbmit">
-						<a class="btn btn_red" href="https://reg.solargroup.pro/user/register" target="_blank">Зарегистрироваться <i class="btn__icon-rt icon-more-red"></i></a>
+						<a class="btn btn_red" href="https://reg.solargroup.pro/user/register" target="_blank" onclick="yaCounter46156305.reachGoal('4'); return true;">Зарегистрироваться <i class="btn__icon-rt icon-more-red"></i></a>
 					</div>
 					<div class="form__note">
 						Пройдите регистрацию в 3 простых шага, для Вас станут
@@ -713,7 +711,7 @@ get_header(); ?>
 		<div class="container sec-send__wrap">
 
 			<div class="form all-sections__form sec-send__form">
-				<div class="form__title">Пройдите простую регистрацию и станьте участником проекта</div>
+				<div class="form__title"><?php the_field('button_article'); ?></div>
 				<!--div class="form__line">
 					<input class="form__input" name="name" placeholder="Имя" type="text">
 				</div>
@@ -721,7 +719,7 @@ get_header(); ?>
 					<input class="form__input" name="mail" placeholder="E-mail" type="text">
 				</div -->
 				<div class="form__line for-sumbmit">
-					<a class="btn btn_red" href="https://reg.solargroup.pro/user/register" target="_blank">Присоединиться <i class="btn__icon-rt icon-more-red"></i></a>
+					<a class="btn btn_red" href="https://reg.solargroup.pro/user/register" target="_blank" onclick="yaCounter46156305.reachGoal('5'); return true;">Присоединиться <i class="btn__icon-rt icon-more-red"></i></a>
 				</div>
 				<div class="form__note">
 					Пройдите регистрацию в 3 простых шага, для Вас станут
@@ -858,7 +856,7 @@ get_header(); ?>
 					<li>Больший максимальный <br> момент на 20%</li>
 					<li>Получение КПД и cos, близкий к номинальному <br> в диапазоне нагрузок от 20 до 140%</li>
 				</ul>
-				<a class="btn btn_black sec-increase__more-btn" href="https://reg.solargroup.pro/user/register">Узнать подробнее <i class="btn__icon-rt icon-more-black"></i></a>
+				<a class="btn btn_black sec-increase__more-btn" href="https://reg.solargroup.pro/user/register" onclick="yaCounter46156305.reachGoal('6'); return true;">Узнать подробнее <i class="btn__icon-rt icon-more-black"></i></a>
 			</div>
 		</div><!-- END container -->
 	</section><!-- END sec-increase -->
@@ -875,7 +873,7 @@ get_header(); ?>
 				</div>
 			</div>
 			<div class="form all-sections__form sec-mailing__form">
-				<div class="form__title">Пройдите простую регистрацию и станьте участником проекта</div>
+				<div class="form__title"><?php the_field('button_article'); ?></div>
 				<!--div class="form__line">
 					<input class="form__input" name="name" placeholder="Имя" type="text">
 				</div>
@@ -883,7 +881,7 @@ get_header(); ?>
 					<input class="form__input" name="mail" placeholder="E-mail" type="text">
 				</div -->
 				<div class="form__line for-sumbmit">
-					<a class="btn btn_red" href="https://reg.solargroup.pro/user/register" target="_blank">Регистрация <i class="btn__icon-rt icon-more-red"></i></a>
+					<a class="btn btn_red" href="https://reg.solargroup.pro/user/register" target="_blank" onclick="yaCounter46156305.reachGoal('7'); return true;">Регистрация <i class="btn__icon-rt icon-more-red"></i></a>
 				</div>
 				<div class="form__note">
 					Пройдите регистрацию в 3 простых шага, для Вас станут
@@ -894,29 +892,7 @@ get_header(); ?>
 	</section><!-- END sec-mailing -->
 
 	<section class="sec-partners">
-		<div class="container">
-			<div class="sec-partners__wrap">
-				<h2 class="all-sections__title sec-partners__title">
-					Получите любую <strong>консультацию</strong> по проекту у наших партнеров
-				</h2>
-				<div class="sec-partners__lead">
-					Более 1700 официальных партнеров в 80 странах мира! <br>
-					Вы можете связаться с ними и получить подробную консультацию.
-				</div>
-				<!--nav class="sec-partners__map">
-					<a class="sec-partners__point _point_01" href="#" title="Партнер"></a>
-					<a class="sec-partners__point _point_02" href="#" title="Партнер"></a>
-					<a class="sec-partners__point _point_03" href="#" title="Партнер"></a>
-					<a class="sec-partners__point _point_04" href="#" title="Партнер"></a>
-					<a class="sec-partners__point _point_05" href="#" title="Партнер"></a>
-					<a class="sec-partners__point _point_06" href="#" title="Партнер"></a>
-					<a class="sec-partners__point _point_07" href="#" title="Партнер"></a>
-					<a class="sec-partners__point _point_08" href="#" title="Партнер"></a>
-					<a class="sec-partners__point _point_09" href="#" title="Партнер"></a>
-					<a class="sec-partners__point _point_10" href="#" title="Партнер"></a>
-				</nav -->
-			</div>
-		</div><!-- END container -->
+
 	</section><!-- END sec-partners -->
 
 </main><!-- END site-main --></div><!-- END site-wrapper -->

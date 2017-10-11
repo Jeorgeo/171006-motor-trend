@@ -52,6 +52,7 @@
   gtag('config', 'UA-107562648-1');
   setTimeout("ga('send','event','Engaged users','More than 15 seconds')",15000);
 </script>
+<!-- Yandex.Metrika counter --> <script type="text/javascript" > (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter46156305 = new Ya.Metrika({ id:46156305, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/46156305" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
 </head>
 <style type="text/css">/* cyrillic-ext */
 @font-face {
@@ -266,7 +267,7 @@ unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-
       </div>
       <div class="sh-btm__col-rt">
         <div class="sh-login">
-          <a href="https://reg.solargroup.pro/user/login" class="sh-login__btn" target="_blank"><span>Вход в проект</span></a>
+          <a href="https://reg.solargroup.pro/user/login" class="sh-login__btn" target="_blank" onclick="yaCounter46156305.reachGoal('1'); return true;"><span>Перейти к регистрации на официальный сайт проекта</span></a>
         </div>
       </div>
     </div>
