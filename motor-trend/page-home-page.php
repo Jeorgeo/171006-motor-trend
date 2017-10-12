@@ -39,7 +39,7 @@ get_header(); ?>
 					<div class="form all-sections__form sec-intro__form">
 						<div class="form__title"><?php the_field('button_article'); ?></div>
 						<div class="form__line for-sumbmit">
-							<a class="btn btn_red" role="button" href="https://reg.solargroup.pro/user/register" target="_blank" onclick="yaCounter46156305.reachGoal('2'); return true;">Присоединиться <i class="btn__icon-rt icon-more-red"></i></a>
+							<a class="btn btn_red" role="button" href="http://reg.solargroup.pro/bvq668" target="_blank" onclick="yaCounter46156305.reachGoal('2'); return true;">Присоединиться <i class="btn__icon-rt icon-more-red"></i></a>
 						</div>
 						<div class="form__note">
 							Пройдите регистрацию в 3 простых шага, для Вас станут
@@ -319,7 +319,7 @@ get_header(); ?>
 						<input class="form__input" name="mail" type="text" placeholder="E-mail">
 					</div -->
 					<div class="form__line for-sumbmit">
-						<a class="btn btn_red" href="https://reg.solargroup.pro/user/register" target="_blank" onclick="yaCounter46156305.reachGoal('4'); return true;">Зарегистрироваться <i class="btn__icon-rt icon-more-red"></i></a>
+						<a class="btn btn_red" href="http://reg.solargroup.pro/bvq668" target="_blank" onclick="yaCounter46156305.reachGoal('4'); return true;">Зарегистрироваться <i class="btn__icon-rt icon-more-red"></i></a>
 					</div>
 					<div class="form__note">
 						Пройдите регистрацию в 3 простых шага, для Вас станут
@@ -719,7 +719,7 @@ get_header(); ?>
 					<input class="form__input" name="mail" placeholder="E-mail" type="text">
 				</div -->
 				<div class="form__line for-sumbmit">
-					<a class="btn btn_red" href="https://reg.solargroup.pro/user/register" target="_blank" onclick="yaCounter46156305.reachGoal('5'); return true;">Присоединиться <i class="btn__icon-rt icon-more-red"></i></a>
+					<a class="btn btn_red" href="http://reg.solargroup.pro/bvq668" target="_blank" onclick="yaCounter46156305.reachGoal('5'); return true;">Присоединиться <i class="btn__icon-rt icon-more-red"></i></a>
 				</div>
 				<div class="form__note">
 					Пройдите регистрацию в 3 простых шага, для Вас станут
@@ -856,44 +856,10 @@ get_header(); ?>
 					<li>Больший максимальный <br> момент на 20%</li>
 					<li>Получение КПД и cos, близкий к номинальному <br> в диапазоне нагрузок от 20 до 140%</li>
 				</ul>
-				<a class="btn btn_black sec-increase__more-btn" href="https://reg.solargroup.pro/user/register" onclick="yaCounter46156305.reachGoal('6'); return true;">Узнать подробнее <i class="btn__icon-rt icon-more-black"></i></a>
+				<a class="btn btn_black sec-increase__more-btn" href="http://reg.solargroup.pro/bvq668" onclick="yaCounter46156305.reachGoal('6'); return true;">Узнать подробнее <i class="btn__icon-rt icon-more-black"></i></a>
 			</div>
 		</div><!-- END container -->
 	</section><!-- END sec-increase -->
-
-	<section class="sec-mailing">
-		<div class="container sec-mailing__wrap">
-			<div class="sec-mailing__text">
-				<h2 class="all-sections__title sec-mailing__title">
-					Хочу получать <strong>свежие новости</strong> и материалы по развитию проекта
-				</h2>
-				<div class="sec-mailing__note">
-					Зарегистрируйся в нашем личном кабинете и будь в курсе
-					последних событий, а также расписания наших вебинаров.
-				</div>
-			</div>
-			<div class="form all-sections__form sec-mailing__form">
-				<div class="form__title"><?php the_field('button_article'); ?></div>
-				<!--div class="form__line">
-					<input class="form__input" name="name" placeholder="Имя" type="text">
-				</div>
-				<div class="form__line">
-					<input class="form__input" name="mail" placeholder="E-mail" type="text">
-				</div -->
-				<div class="form__line for-sumbmit">
-					<a class="btn btn_red" href="https://reg.solargroup.pro/user/register" target="_blank" onclick="yaCounter46156305.reachGoal('7'); return true;">Регистрация <i class="btn__icon-rt icon-more-red"></i></a>
-				</div>
-				<div class="form__note">
-					Пройдите регистрацию в 3 простых шага, для Вас станут
-					доступны все материалы и действующие предложения.
-				</div>
-			</div>
-		</div><!-- END container -->
-	</section><!-- END sec-mailing -->
-
-	<section class="sec-partners">
-
-	</section><!-- END sec-partners -->
 
 </main><!-- END site-main --></div><!-- END site-wrapper -->
 

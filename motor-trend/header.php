@@ -30,7 +30,7 @@
   <meta property="og:url" content="https://www.motor-trend.ru">
   <meta property="og:type" content="website">
   <meta property="og:title" content="Мотор-колесо Дуюнова. Solarmotors - разработка и производство самых эффективных асинхронных двигателей в мире">
-  <meta property="og:image" content="https://https://www.motor-trend.ru/img/og-image_1200x1200.png">
+  <meta property="og:image" content="https://www.motor-trend.ru/img/og-image_1200x1200.png">
   <meta property="og:site_name" content="Мотор-колесо Дуюнова. Технологии нового поколения.">
   <meta property="og:description" content="Мотор-колесо Дуюнова. Стань участником уникального инвестиционного проекта. Solarmotors - разработка и производство самых эффективных асинхронных двигателей в мире.">
   <!-- Favicon ================================================================================= -->
@@ -227,8 +227,7 @@ unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-
       </div>
       <div class="sh-top__col-rt">
         <div class="sh-info">
-          <a class="sh-info__phone" href="#"></a>
-          <div class="sh-info__addr">Зеленоград, Панфиловский проспект 10</div>
+          
         </div>
       </div>
     </div>
@@ -243,20 +242,7 @@ unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-
           <li class="sh-menu__item"><a class="sh-menu__link js-scroll-to" href="#invest">Условия инвестирования</a></li>
           <li class="sh-menu__item"><a class="sh-menu__link js-scroll-to" href="#company">О компании</a></li>
         </ul>
-        <div class="sh-mobinfo">
-          <!-- a class="sh-mobinfo__phone" href="tel:+71233333333">8 (123) 333 33 33</a -->
-          <!-- a class="sh-mobinfo__mail" href="mailto:info@solarmotors.com">info@solarmotors.com</a -->
-          <div class="sh-mobinfo__addr">Зеленоград, Панфиловский проспект 10</div>
-          <ul class="sonet sh-mobinfo__sonet">
-            <li class="sonet__item"><a class="sonet__link icon-fb" target="_blank" href="https://www.facebook.com/groups/1186525781358249"></a></li>
-            <li class="sonet__item"><a class="sonet__link icon-vk" target="_blank" href="https://vk.com/duyunov_official"></a></li>
-            <li class="sonet__item"><a class="sonet__link icon-gp" target="_blank" href="https://plus.google.com/u/1/102494448651981142020"></a></li>
-            <li class="sonet__item"><a class="sonet__link icon-tw" target="_blank" href="https://twitter.com/DDuunov"></a></li>
-            <li class="sonet__item"><a class="sonet__link icon-ok" target="_blank" href="https://ok.ru/group/54547689242729"></a></li>
-            <li class="sonet__item"><a class="sonet__link icon-yt" target="_blank" href="https://www.youtube.com/channel/UCHrtI4vjbUChbFPrammi3lg/videos"></a></li>
-            <li class="sonet__item"><a class="sonet__link icon-in" target="_blank" href="https://www.instagram.com/asinhronnyedvigateliduunova"></a></li>
-          </ul>
-        </div>
+
       </div>
       <div class="sh-btm__mob">
         <a class="sh-btm__mob-btn mobmenu js-mobmenu-toggle" role="button">
